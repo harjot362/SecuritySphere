@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Project specific
+detected_faces/*
+images/*
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Byte-compiled / optimized / DLL files
+*.pyc
