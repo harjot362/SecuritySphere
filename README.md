@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Home-Security-Demo
 __________________________________________________________________________________________________________
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,3 +28,6 @@ the script is going to get notifyed in case of that event instead.
 
 
 .:: Have fun ! And have a good day !! ::.
+=======
+# SecuritySphere
+>>>>>>> 17c21c1078d782a031b38b2e9ef00ad28036147c
